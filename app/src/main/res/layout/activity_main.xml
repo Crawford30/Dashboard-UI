@@ -114,8 +114,8 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="10dp"
                     android:fontFamily="@font/aclonica"
-                    android:text="SOCIAL SUTUDIES"
-                    android:textSize="18sp" />
+                    android:text="SST"
+                    android:textSize="24sp" />
 
                 <ImageView
                     android:id="@+id/imageView3"
@@ -156,8 +156,8 @@
                     android:layout_centerHorizontal="true"
                     android:layout_marginTop="10dp"
                     android:fontFamily="@font/aclonica"
-                    android:text="ENGLISH"
-                    android:textSize="18sp" />
+                    android:text="SCIENCE"
+                    android:textSize="24sp" />
 
                 <ImageView
                     android:id="@+id/imagescience"
@@ -188,7 +188,7 @@
                     android:layout_marginTop="10dp"
                     android:fontFamily="@font/aclonica"
                     android:text="MATHS"
-                    android:textSize="18sp" />
+                    android:textSize="24sp" />
 
                 <ImageView
                     android:id="@+id/imagesst"
